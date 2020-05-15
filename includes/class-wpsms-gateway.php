@@ -393,6 +393,7 @@ class Gateway {
 			),
 			'africa'         => array(
 				'_ebulksms'          => 'ebulksms.com',
+				'_smsbeep'          => 'smsbeep.com',
 				'africastalking'     => 'africastalking.com',
 				'smsnation'          => 'smsnation.co.rw',
 				'jusibe'             => 'jusibe.com',
